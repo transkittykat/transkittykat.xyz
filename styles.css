@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+  color: white;
+}
+a:link, a:visited {
+  background-color: white;
+  color: black;
+  text-decoration: none;
+}
+p {
+  font-family: Comic Sans MS;
+  font-size: 150%;
+  color: white;
+}
