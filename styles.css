@@ -12,8 +12,9 @@ p {
   font-size: 150%;
   color: white;
 }
-div.button {
+div {
 	float: left;
 	display: inline-block;
 
 }
+
