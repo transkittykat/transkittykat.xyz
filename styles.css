@@ -13,8 +13,5 @@ p {
   color: white;
 }
 div {
-	float: left;
 	display: inline-block;
-
 }
-
