@@ -12,3 +12,7 @@ p {
   font-size: 150%;
   color: white;
 }
+div {
+	float: left;
+	display: inline-block;
+}
